@@ -1,21 +1,21 @@
-[![MasterHead](https://scontent.fpnh2-2.fna.fbcdn.net/v/t39.30808-6/391653181_343167431570381_4864002608582562308_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHPgEtH3hNF7oJTaYXgq_k3PENPxF4msmI8Q0_EXiayYnBsF8g7tWK6glnkKOE46vopexgNabhhbhZUbFr0EI8c&_nc_ohc=wAmgN9jdgdQAX9PV2FX&_nc_zt=23&_nc_ht=scontent.fpnh2-2.fna&oh=00_AfBnHqa40yTKBFSDOl4PpiWtczlg2C1RNOwMe7MZIHFX9Q&oe=6531E1F2)](https://github.com/SoyVitou2019)
-<h1 align="center">Hi 👋, I'm Soy Vitou Pro</h1>
-<h3 align="center">A passionate on Machine learning and Computer Graphic from Cambodia</h3>
+[![MasterHead](https://scontent.fpnh2-1.fna.fbcdn.net/v/t39.30808-6/391655515_307353755373821_1851759384067188108_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFeN9oPgm0sYEa-4fu5tMFj4axj_A40gKzhrGP8DjSArIvyGHXQg_fB4xICR1tlb2whjKKqcUSYAEQQThfD1Z2k&_nc_ohc=uR9iFxyJ7yAAX-N8BXK&_nc_zt=23&_nc_ht=scontent.fpnh2-1.fna&oh=00_AfDlV9iQaHgKkDIQCok6wvVAvjZEptYGfJ5FZNv9ddBjWA&oe=6531299A)](https://github.com/SoyVitou2019)
+<h1 align="center">Hi 👋, I'm Good!</h1>
+<h3 align="center">A passionate on 3D Modeling and Game Development</h3>
 <img align="right" alt="coding" width="400" src="Ry6p.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
 
-- 🔭 I’m currently working on [Animal Recognition](https://animal-recognition.streamlit.app/)
+- 🔭 I’m currently working on Racing Game
 
-- 🌱 I’m currently learning **Python, Flask, JavaScript, React, etc...**
+- 🌱 I’m currently learning **Python, Unity, Blender, C Sharp, JavaScript, Three js, etc...**
 
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Game Development**
 
-- 💬 Ask me about **Python, Unity**
+- 💬 Ask me about **Blender, Unity**
 
-- 📫 How to reach me **soyvitou999@gmail.com**
+- 📫 How to reach me **kh.xplore@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **We are all equal**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
