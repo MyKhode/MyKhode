@@ -4,7 +4,7 @@
 
 <img align="right" width="380px" src="https://media3.giphy.com/media/gOkTUv6yfsTqzGRBob/giphy.gif?cid=ecf05e47o8vx6cy3qfu6h70es7x0t34gnwsmece2kl8uuw5n&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soytet&label=Profile%20views&color=0e75b6&style=flat" alt="soytet" /> </p>
 
 - 🔭 I’m currently working on Racing Game
 
