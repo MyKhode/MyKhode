@@ -3,7 +3,7 @@
 <h3 align="center">A passionate on Machine learning and Computer Graphic from Cambodia</h3>
 <img align="right" alt="coding" width="400" src="Ry6p.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat](https://photos.google.com/photo/AF1QipOaF0YjJFSzK7zF5hgF-8jkVOpoDEJZ30fOUS1l)" alt="soyvitou2019" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soyvitou2019&label=Profile%20views&color=0e75b6&style=flat" alt="soyvitou2019" /> </p>
 
 - 🔭 I’m currently working on [Animal Recognition](https://animal-recognition.streamlit.app/)
 
