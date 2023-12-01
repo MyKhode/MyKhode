@@ -97,7 +97,7 @@
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=soytet&show_icons=true&theme=synthwave)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soytet&theme=synthwave&type=png" alt="GitHub Streak" /></a>
+<a align="right" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soytet&theme=synthwave&type=png" alt="GitHub Streak" /></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
