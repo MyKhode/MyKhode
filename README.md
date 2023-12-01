@@ -1,33 +1,54 @@
 # 🏄‍♂️ Endless of Game Developer Life
 
-**`Digital Marketing Content (Lifelong/EatWell/PerfectLife)`**
-   <p align="left">
+**`Life As a Game but Don't Play Life as GTA (Lifelong/EatWell/PlayGame)`**
+
+----
+### ⚡Multiplayer Partner Competition 
+   <p align="center">
       <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1 ">
-         <img alt="youtube subscribers" width="100px" title="Subscribe to my YouTube channel" src="https://th.bing.com/th/id/OIG.hN3wYqq0HDtyrbPGH.qT?pid=ImgGn"/>
+         <img alt="youtube subscribers" width="100px" title="Download Now!" src="https://th.bing.com/th/id/OIG.hN3wYqq0HDtyrbPGH.qT?pid=ImgGn"/>
       </a> 
-      <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1" >
-         <img alt="youtube subscribers" width="100px" title="Subscribe to my YouTube channel" src="https://th.bing.com/th/id/OIG.hN3wYqq0HDtyrbPGH.qT?pid=ImgGn"/>
-      </a> 
+      <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= ' + ' '+' ' + ' ' Play+Now! + ' ' + ' ' + ' ' + ' ' " alt="Typing SVG" /></a></p>
    </p>
    
-   <p align="left">
+   <p align="center">
+      <a href="https://github.com/soytet?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/soytet?color=%ffF05E44&labelColor=e7fc00&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
+            <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Let's Play" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=f4a71a&label=Download&logo=download&logoColor=black&style=for-the-badge&labelColor=f5c71a"/></a> 
+      <a href="https://github.com/soytet?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/soytet?color=%ffF05E44&style=for-the-badge&labelColor=e7fc00&logo=star&logoColor=black"/></a>
+   </p>
+
+
+   ###### ⚡Info.repo
+   <p>
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/soytet/db_python">
+      <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/soytet/db_python">
+      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/soytet/maze">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/soytet/maze">
+      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/soytet/maze">
+   </p>
+
+
+---
+### ⚡Total
+ <p align="left">
       <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/@endlessgamedev">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSzMdFYKdTupoP9IytRmLFQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/soytet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/soytet?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/soytet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
 ---
 
-
-<h1 align="center">Hi 👋, I'm Good!</h1>
+<h1 align="center">Hi 👋, I'm Endie Game Dev!</h1>
 <h3 align="center">A passionate on 3D Modeling and Game Development</h3>
 
-<img align="right" width="380px" src="https://media3.giphy.com/media/gOkTUv6yfsTqzGRBob/giphy.gif?cid=ecf05e47o8vx6cy3qfu6h70es7x0t34gnwsmece2kl8uuw5n&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soytet&label=Profile%20views&color=0e75b6&style=flat" alt="soytet" /> </p>
 
@@ -68,30 +89,35 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)](https://ytcards.demolab.com/?id=8XVI_Zrvz3c&title=These+Coding+Projects+Will+Set+You+Apart+as+a+Programmer+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1268 "These Coding Projects Will Set You Apart as a Programmer (w/ Instructions Included)")](https://www.youtube.com/watch?v=8XVI_Zrvz3c)
-[![Dev Startup Day 10 - Code with Me](https://ytcards.demolab.com/?id=YuJ6jEb3bOQ&title=Dev+Startup+Day+10+-+Code+with+Me&lang=en&timestamp=1700917232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2132 "Dev Startup Day 10 - Code with Me")](https://www.youtube.com/watch?v=YuJ6jEb3bOQ)
+[![This is how I create keyboard animation clip](https://ytcards.demolab.com/?id=vkAfYEIIXio&title=My+first+keyboard+product+animation+%28w%2F+Instructions+Included%29&lang=en&timestamp=1701357302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=390 "This is how I create animation clips)")](https://www.youtube.com/watch?v=vkAfYEIIXio)
+[![Dev Startup Day 10 - Code with Me](https://ytcards.demolab.com/?id=lNB8yVK8M_4&title=Modeling+យន្ដហោះ+Standard+GradeA&lang=en&timestamp=1700917232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=500"Modeling+យន្ដហោះ+Standard+GradeA")](https://www.youtube.com/watch?v=lNB8yVK8M_4)
 <!-- END YOUTUBE-CARDS -->
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
 #
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
-
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=soytet&show_icons=true&theme=synthwave)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=soytet&theme=synthwave&type=png" alt="GitHub Streak" /></a>
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+ <summary><h3>💬ប្រវត្តិស្នេហ៍ខ្ញុំ​​ ភាគ១ </h3></summary>
+   ខ្ញុំបានចាប់ផ្ដើមក្នុងការសរសេរ Program តាំងតែពីខ្ញុំនៅវិទ្យាល័យមកម្ល៉េះ(Computer ពូរឲ្យ) កាលនោះ គ្មានចេះអីទេ ក្រៅពីយកសរសេរ HTML នឹង រៀនប្រើ Basic របស់ Blender។ ហើយបើសួរថា ចេះច្រើនអត់ កាលហ្នុង? ដូចជាគ្នានចេះអីសោះ ក្រៅពីស្គាល់ UI កុំព្យូរទ័រ។ បន្ទាប់ពីបានមកសកល ទំនេរអត់ការងារធ្វើ ក៏រៀន build website. រៀនប្រហែលបាន៣ខែ ធុញ! ក៏ទៅចាប់ Blender វិញ! បន្ទាប់ពីធុញ Blender ក៏រត់ទៅរៀន Unity.
+   
+#
 
-[website]: https://fkcodes.com
-[youtube]: https://youtube.com/fknight
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soytet&show_icons=true&locale=en&layout=compact" alt="soytet" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soytet&show_icons=true&locale=en" alt="soytet" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soytet&" alt="soytet" /></p>
+<details>
+ <summary><h3>💬ប្រវត្តិស្នេហ៍ខ្ញុំ​​ ភាគ២ </h3></summary>
+   (សុំរំលឹកបន្តិចភាគមុនបន្តិច) បន្តាប់ពីចាកចេញពី Blender ទៅប្រើ Unity. ក៏ជាប់ចិត្ដ ហើយឃើញថា អាកម្មវិធី១នេះ ដូចជាអាច Cover ការងារដែលខ្ញុំបានរៀនក្រែលដែរ ពីព្រោះថា អា Unity ហ្នឹងវាត្រូវការ 3D Model ហើយអាហ្នឹងដូចខ្ញុំបាន Mention ខាងលើចឹង ខ្ញុំរៀនវាតាំងពីខ្ញុំនៅវិទ្យាល័យ ចឹងហើយ វាដូចជាត្រូវប៉ាន់ម្យ៉ាងដែរ។ ខ្ញុំអាច Sculpting Character យកធ្វើជា Player, Modeling ព្រៃជាឈើធ្វើជា Environments, Rigging Character ធ្វើជា Animation យកទៅដាក់នឹង យូរនីតធី។​ ហើយបើនិយាយពី Website វិញ សួរថាមានប្រយោជន៍អត់។ ចម្លើយគឺស្រួលឆ្លើយ អ្វីដែលអ្នកកំពុងតែអានហ្នឹងហើយ ជាសម្ធិទផលដូចដែលឃើញស្រាប់...
+- បើមានចម្ងល់ កុំភ្លេច Comment ហើយ Subscribe ១ទៅ 
+   
+#
+<details>
+ <summary><h3>💬ប្រវត្តិស្នេហ៍ខ្ញុំ​​ ភាគ៣ </h3></summary>
+         <p align="center">
+            <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         </p>
+     
