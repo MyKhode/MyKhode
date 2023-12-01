@@ -9,9 +9,20 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: DenverCoder1/github-readme-youtube-cards@main
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          channel_id: UCSzMdFYKdTupoP9IytRmLFQ
-          comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: python -m pip install DenverCoder1/github-readme-youtube-cards@main
+
+      - name: Generate YouTube cards
+        run: |
+          python /path/to/action.py \
+            --channel UCSzMdFYKdTupoP9IytRmLFQ \
+            --comment-tag-name YOUTUBE-CARDS \
+            --show-duration true
+
