@@ -15,7 +15,7 @@
    <p align="center">
       <a href="https://github.com/soytet?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/soytet?color=%ffF05E44&labelColor=e7fc00&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
-            <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1">
+            <a href="https://drive.google.com/uc?export=download&id=1irK3Ibn6OPTCsVLAz2v_nqkbpPGnKxkJ">
          <img alt="youtube subscribers" title="Let's Play" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=f4a71a&label=Download&logo=download&logoColor=black&style=for-the-badge&labelColor=f5c71a"/></a> 
       <a href="https://github.com/soytet?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/soytet?color=%ffF05E44&style=for-the-badge&labelColor=e7fc00&logo=star&logoColor=black"/></a>
