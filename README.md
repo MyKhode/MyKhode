@@ -1,4 +1,4 @@
-# 🏄‍♂️ Endless of Game Developer Life
+# 🏄‍♂️ Development Life
 
 **`Silent is the best answer (Lifelong/EatWell/PlayGame)`**
 
