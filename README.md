@@ -1,51 +1,9 @@
 # 🏄‍♂️ Endless of Game Developer Life
 
-**`Life As a Game but Don't Play Life as GTA (Lifelong/EatWell/PlayGame)`**
+**`Silent is the best answer (Lifelong/EatWell/PlayGame)`**
 
 
-----
-### ⚡Multiplayer Partner Competition 
-   <p align="center">
-      <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1 ">
-         <img alt="youtube subscribers" width="100px" title="Download Now!" src="https://th.bing.com/th/id/OIG.hN3wYqq0HDtyrbPGH.qT?pid=ImgGn"/>
-      </a> 
-      <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines= ' + ' '+' ' + ' ' Play+Now! + ' ' + ' ' + ' ' + ' ' " alt="Typing SVG" /></a></p>
-   </p>
-   
-   <p align="center">
-      <a href="https://github.com/soytet?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/soytet?color=%ffF05E44&labelColor=e7fc00&style=for-the-badge&logo=person-add&label=Follow&logoColor=black"/></a>
-            <a href="https://drive.google.com/uc?export=download&id=1irK3Ibn6OPTCsVLAz2v_nqkbpPGnKxkJ">
-         <img alt="youtube subscribers" title="Let's Play" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=f4a71a&label=Download&logo=download&logoColor=black&style=for-the-badge&labelColor=f5c71a"/></a> 
-      <a href="https://github.com/soytet?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/soytet?color=%ffF05E44&style=for-the-badge&labelColor=e7fc00&logo=star&logoColor=black"/></a>
-   </p>
 
-
-   ###### ⚡Info.repo
-   <p>
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/soytet/db_python">
-      <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/soytet/db_python">
-      <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/soytet/maze">
-      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/soytet/maze">
-      <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/soytet/maze">
-   </p>
-
-
----
-### ⚡Total
- <p align="left">
-      <a href="https://www.youtube.com/@endlessgamedev?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCSzMdFYKdTupoP9IytRmLFQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@endlessgamedev">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCSzMdFYKdTupoP9IytRmLFQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/soytet?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/soytet?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/soytet?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
 
 <h1 align="center">Hi 👋, I'm Endie Game Dev!</h1>
 <h3 align="center">A passionate on 3D Modeling and Game Development</h3>
