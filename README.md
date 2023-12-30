@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soytet&label=Profile%20views&color=green&style=flat" alt="soytet" /> </p>
 
-- 🔭 I’m currently working on Racing Game
+- 🔭 I’m currently working on KhmerChatbot with Narrow Ai
 
 - 🌱 I’m currently learning **Python, Unity, Blender, C Sharp, JavaScript, Three js, etc...**
 
