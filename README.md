@@ -1,8 +1,6 @@
 # 🏄‍♂️ Development Life
 
-**`Silent is the best answer (Lifelong/EatWell/PlayGame)`**
-
-
+**`Classic will never bored (Life is Long, Find Fun in Life)`**
 
 
 <h1 align="center">Hi 👋, I'm Empire!</h1>
