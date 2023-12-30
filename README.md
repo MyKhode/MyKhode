@@ -5,8 +5,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Endie Game Dev!</h1>
-<h3 align="center">A passionate on 3D Modeling and Game Development</h3>
+<h1 align="center">Hi 👋, I'm Empire!</h1>
+<h3 align="center">A passionate on 3D Modeling, Game Development and Researching</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soytet&label=Profile%20views&color=green&style=flat" alt="soytet" /> </p>
