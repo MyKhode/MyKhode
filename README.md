@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 💬 Ask me about **Blender, Unity**
+- 💬 Ask me about **Ctrl C, Ctrl V**
 
 - 📫 How to reach me **kh.xplore@gmail.com**
 
