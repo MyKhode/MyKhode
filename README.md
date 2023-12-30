@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on KhmerChatbot with Narrow Ai
 
-- 🌱 I’m currently learning **Python, Unity, Blender, C Sharp, JavaScript, Three js, etc...**
+- 🌱 I’m currently learning **Python, Pytorch, Unity, Blender, C Sharp, JavaScript, Three js, etc...**
 
 - 👯 I’m looking to collaborate on **Game Development**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **kh.xplore@gmail.com**
 
-- ⚡ Fun fact **We are all equal**
+- ⚡ Fun fact **There are more life forms living on your skin than there are people on the planet.**
 
 ### 🧰 Languages and Tools
 
