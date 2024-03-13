@@ -3,7 +3,7 @@
 **`Classic will never bored (Life is Long, Find Fun in Life)`**
 
 
-<h1 align="center">Hi 👋, I'm Empire!</h1>
+<h1 align="center">Hi 👋, I'm Game Developer!</h1>
 <h3 align="center">A passionate on 3D Modeling, Game Development and Researching</h3>
 
 
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Game Development**
 
-- 💬 Ask me about **Ctrl C, Ctrl V**
+- 💬 Ask me about **Unity, Blender, Python...**
 
 - 📫 How to reach me **kh.xplore@gmail.com**
 
