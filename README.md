@@ -1,4 +1,4 @@
-# 🏄‍♂️ Let's Eat
+# 🏄‍♂️ Let's Play
 
 **`Classic will never bored (Life is Long, Find Fun in Life)`**
 
