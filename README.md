@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Unity, Blender, Python...**
 
-- 📫 How to reach me **kh.xplore@gmail.com**
+- 📫 How to reach me **https://soytet.blogspot.com/**
 
 - ⚡ Fun fact **There are more life forms living on your skin than there are people on the planet.**
 
