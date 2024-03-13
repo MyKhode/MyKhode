@@ -1,6 +1,6 @@
 # 🏄‍♂️ Let's Play
 
-**`Classic will never bored (Life is Long, Find Fun in Life)`**
+**`Hello my name is SoyTet, I am a Game Developer`**
 
 
 <h1 align="center">Hi 👋, I'm Game Developer!</h1>
