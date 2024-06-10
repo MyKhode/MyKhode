@@ -12,8 +12,21 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-<p> I'm an <b>Game Developer</b> currently building my skills in <b>Game Machanics</b> and <b>Level Design.</b> In addition to Game Dev, I'm also diving into <b>Game Multiplayer Network</b> to strengthen my foundational knowledge.</p>
 
+<table>
+  <tr>
+    <td>
+      <a href="https://melon-pvp.en.uptodown.com/android">
+        <img width="100" src="https://cdna.artstation.com/p/users/avatars/009/050/230/large/22167d7621969976ef4e74ad6b5ce526.jpg?1717985457">
+      </a>
+    </td>
+    <td>
+      I'm an <b>Game Developer</b> who passionate on <b>Game Mechanics</b> and <b>Level Design</b>. In addition to these field, I'm also diving into <b>Multiplayer Solutions, Game Assets Modeling</b> and trying to improve my <b>Spaghetti Code</b> skills. .
+    </td>
+  </tr>
+</table>
+
+ 
 <!-- Tech Stack -->
 </br>
 <h2>Tech Stack</h2>
