@@ -21,7 +21,7 @@
       </a>
     </td>
     <td>
-      I'm an <b>Game Developer</b> who passionate on <b>Game Mechanics</b> and <b>Level Design</b>. In addition to these field, I'm also diving into <b>Multiplayer Solutions, Game Assets Modeling</b> and trying to improve my <b>Spaghetti Code</b> skills. .
+      I'm a <b>Game Developer</b> who passionate on <b>Game Mechanics</b> and <b>Level Design</b>. In addition to these field, I'm also diving into <b>Multiplayer Solutions, Game Assets Modeling</b> and trying to improve my <b>Spaghetti Code</b> skills. .
     </td>
   </tr>
 </table>
