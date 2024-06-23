@@ -75,9 +75,9 @@
 </br>
 <h2>Top Projects</h2>
 <p>
-  <a href="https://melon-pvp.en.uptodown.com/android"><img width="278" src="https://public-files.gumroad.com/9794bbdko36wgqizmquocka7c1qy"></a>
-  <a href="https://github.com/amangupta143/Diabetes-Prediction-KNN"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=Diabetes-Prediction-KNN&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Diabetes-Prediction-KNN"></a>
-  <a href="https://github.com/amangupta143/BigMart-Sales-Prediction"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=amangupta143&repo=BigMart-Sales-Prediction&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="BigMart-Sales-Prediction"></a>
+  <a href="https://github.com/ikhode-kh/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-kh&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
+ <a href="https://github.com/ikhode-kh/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-kh&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
+  <a href="https://github.com/ikhode-kh/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ikhode-kh&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
   </br>
 
   
