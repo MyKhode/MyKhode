@@ -16,8 +16,8 @@
 <table>
   <tr>
     <td>
-      <a href="https://melon-pvp.en.uptodown.com/android">
-        <img width="100" src="https://ikhode.site/ikhode-logo.png">
+      <a href="https://www.ikhode.site/">
+        <img width="100" src="https://www.ikhode.site/_astro/avatar.CIVzSjiG_Z1VvrYM.webp">
       </a>
     </td>
     <td>
