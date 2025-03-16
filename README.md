@@ -85,6 +85,7 @@ Feel free to reach out if you have any questions or ideas!
     <img alt="adobe photoshop" src="https://img.shields.io/badge/Adobe Photoshop-05122A?style=flat&logo=adobephotoshop">
     <img alt="gimp" src="https://img.shields.io/badge/GIMP-05122A?style=flat&logo=gimp">
 </p>
+![image](https://github.com/user-attachments/assets/a9ade759-4381-4c36-937b-27135f312666)
 
 <h3>Databases and Cloud Hosting</h3>
 <p>
