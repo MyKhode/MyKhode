@@ -17,7 +17,7 @@
   <tr>
     <td>
       <a href="https://www.ikhode.site/">
-        <img width="100" src="https://www.ikhode.site/_astro/avatar.CIVzSjiG_Z1VvrYM.webp">
+        <img width="100" src="https://avatars.githubusercontent.com/u/132768132?v=4">
       </a>
     </td>
     <td>
