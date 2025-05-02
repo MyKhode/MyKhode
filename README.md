@@ -12,7 +12,8 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-![image](https://github.com/user-attachments/assets/71303f27-08aa-4f62-aa23-7ee4668a38b2)
+![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
+
 
 <table>
   <tr>
