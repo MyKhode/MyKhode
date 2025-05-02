@@ -12,6 +12,7 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
+![image](https://github.com/user-attachments/assets/71303f27-08aa-4f62-aa23-7ee4668a38b2)
 
 <table>
   <tr>
