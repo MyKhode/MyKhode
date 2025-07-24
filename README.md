@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Ikhode.</h1>
+<h1> Hello 👋, I hope u found somthing cool here</h1>
 
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-artstation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/ikhode)
@@ -13,134 +13,50 @@
 <!-- Short Bio -->
 <!-- </samp> for  -->
 ![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
-
-
 <table>
   <tr>
     <td>
-      <a href="https://www.ikhode.site/">
-        <img width="100" src="https://avatars.githubusercontent.com/u/132768132?v=4">
+      <a href="https://community.ikhode.com/">
+        <img width="150" src="https://github.com/user-attachments/assets/18452de0-71a2-48b7-92f2-4af4380116f3" alt="Profile Image">
       </a>
     </td>
     <td>
-      I'm a <b>Game Developer</b> who passionate on <b>Game Mechanics</b> and <b>Level Design</b>. In addition to these field, I'm also diving into <b>Multiplayer Solutions, Game Assets Modeling</b> and trying to improve my <b>Spaghetti Code</b> skills. .
+      I'm a <strong>Software Engineer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
+      I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
+      <strong>Spaghetti Code</strong> skills.
+      <br>
     </td>
   </tr>
 </table>
 
- --------------------------------------------------------------------
-Hi, I'm a game developer and designer. here you will learn everything about Game Development in Unity using C#. for more further, u can join with us in Discord Community and especially u can crab all the bundle of code and assets with free and paid. here check it's out
+--------------------------------------------------------------------
+I used to developed several game but I quit a while in game dev journey for a few years ago and I really happy to see everyone do it. now aday I'm currently working and studying in AI and Web Development fields. so yeah I still don't know what I'm doing hahha, just random stuff. just do what you love and try your best.
 
 ## 🌟 Community
 Connect with us on **Discord** and join our amazing community:  
-🗣️ [Discord Server](https://discord.gg/ySCGdyArHb)
+[Discord Community Server](https://discord.gg/ySCGdyArHb) <br>
+[Github Discussion Community](https://github.com/orgs/Ikhode-Technologies/discussions) <br>
+[Ikhode Community Official Web Application](https://community.ikhode.com/) <br>
 
 ---
 
-## 🔗 Social Media & Platforms
+## 🔗 Developed Applications
 Stay updated and explore more about Ikhode Studio:
-
-- ▶️ [YouTube](https://www.youtube.com/@IkhodeStudio) - `https://www.youtube.com/@IkhodeStudio`  
-- 🖼️ [ArtStation](https://www.artstation.com/ikhode) - `https://www.artstation.com/ikhode`  
-- 📤 [Facebook Page](https://web.facebook.com/IkhodeStudio) - `https://web.facebook.com/IkhodeStudio`  
-- 🔍 [ResearchGate](https://www.researchgate.net/profile/Soy-Tet-2) - `https://www.researchgate.net/profile/Soy-Tet-2`  
-
+<a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" >
+  <table>
+    <tr>
+      <td>
+        <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer">
+          <img width="100" src="https://github.com/user-attachments/assets/3a6dd7e4-2255-43f1-87fb-ddd92448752b">
+        </a>
+      </td>
+      <td>
+        The Voice AI Voice Changer gives you the power to change your voice in upload and record in web application for a whole bunch of character in khmer real voice tune.
+      </td>
+    </tr>
+  </table>
+</a>
 ---
-
-## 🖥️ Personal Links
-Discover more about our projects and work:
-
-- 🕸️ [Official Website](https://www.ikhode.site/) - `https://www.ikhode.site/`  
-- 🗣️ [Discord Server](https://discord.gg/ySCGdyArHb) - `https://discord.gg/ySCGdyArHb`  
-- #️⃣ [GitHub](https://github.com/MyKhode) - `https://github.com/MyKhode`  
-- 🎮 [Uptodown](https://en.uptodown.com/developer/ikhode-studio) - `https://en.uptodown.com/developer/ikhode-studio`  
-- 🧑‍🤝‍🧑 [GitHub Organization](https://github.com/Ikhode-Technologies) - `https://github.com/Ikhode-Technologies`  
-
-> 🎮 **Steam**: Not Available Yet  
-> ▶️ **Play Store**: Coming Soon - Ikhode Studio  
-
----
-
-## 📩 Contact Us
-Feel free to reach out if you have any questions or ideas!  
-📧 Email: [contact@ikhode.site](mailto:contact@ikhode.site)
-
----
-</br>
-<h2>Tech Stack</h2>
-<!-- <img align="right" width="40%" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/> -->
-<h3>Programming Languages</h3>
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python">
-  <img alt="C" src="https://img.shields.io/badge/C-05122A?logo=c&style=flat">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-  <img src="https://img.shields.io/badge/Shell%20Script-05122A?style=flat&logo=gnu-bash&logoColor=white" alt="Shell script">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-05122A?logo=cplusplus&style=flat">
-  <img alt="C#" src="https://img.shields.io/badge/CSharp-05122A?logo=csharp&style=flat">
-</p>
-
-<h3>Game dev Engine and Tools</h3>
-<p>
-    <img alt="unity" src="https://img.shields.io/badge/Unity-05122A?style=flat&logo=unity">
-    <img alt="blender" src="https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender">
-    <img alt="godot" src="https://img.shields.io/badge/Godot-05122A?style=flat&logo=godotengine">
-    <img alt="adobe photoshop" src="https://img.shields.io/badge/Adobe Photoshop-05122A?style=flat&logo=adobephotoshop">
-    <img alt="gimp" src="https://img.shields.io/badge/GIMP-05122A?style=flat&logo=gimp">
-</p>
-![image](https://github.com/user-attachments/assets/a9ade759-4381-4c36-937b-27135f312666)
-
-<h3>Databases and Cloud Hosting</h3>
-<p>
-  <img alt="Github Pages" src="https://img.shields.io/badge/Github%20Pages-05122A?style=flat&logo=Github">
-  <img alt="MySql" src="https://img.shields.io/badge/MySql-05122A?style=flat&logo=MySql">
-  <img alt="photon" src="https://img.shields.io/badge/Photon-05122A?style=flat&logo=photon">
-  <img src="https://img.shields.io/badge/AWS%20EC2-05122A?style=flat&logo=amazonec2&logoColor=#FF9900" alt="AWS">
-</p>
-
-<h3>Software and Tools</h3>
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-05122A?style=flat&logo=Git">
-  <img alt="Github Desktop" src="https://img.shields.io/badge/Github%20Desktop-05122A?style=flat&logo=Github">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=Jupyter">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=Visual%20Studio%20Code">
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-05122A?style=flat&logo=Canva">
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-05122A?style=flat&logo=Medium">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Notion-05122A?style=flat&logo=Notion">
-  <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-05122A?style=flat&logo=StackOverflow">
-</p>
-
-
-<!-- Top Projects List -->
-</br>
-<h2>Top Projects</h2>
-<p>
-  <a href="https://github.com/MyKhode/Telegram-Chatbot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Telegram-Chatbot&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Telegram Chatbot"></a>
- <a href="https://github.com/MyKhode/Netcode_FPS_Sample"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Netcode_FPS_Sample&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Netcode_FPS_Sample"></a>
-  <a href="https://github.com/MyKhode/Student-Lobby-Online"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Student-Lobby-Online&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Student-Lobby-Online"></a>
-  <a href="https://github.com/MyKhode/Car_Management_System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MyKhode&repo=Car_Management_System&theme=dark&bg_color=0D1017&title_color=E8EDF3&hide_border=false&icon_color=E8EDF3&show_icons=false&border_radius=0" alt="Car_Management_System"></a>
-  </br>
-
-  
-  </p>
-  <p align="right">
-    <a href="https://github.com/MyKhode?tab=repositories"><img alt="Static Badge" src="https://img.shields.io/badge/All%20Projects-05122A?style=flat-square"></a>
-  </p>
-
-
-<!-- Current Stats card -->
-</br>
-<h2>Current Stats</h2>
-
-<div>
-
-<a href="https://github.com/MyKhode">
-      <img alt="ikhode's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=MyKhode&theme=monokai-metallian&border_radius=0&card_width=417&card_height=194&background=0D1017&fire=E8EDF3&currStreakNum=E8EDF3&sideNums=E8EDF3&currStreakLabel=E8EDF3&sideLabels=E8EDF3F0&dates=E8EDF3D5&ring=E8EDF3F0&card_width=400&card_height=195"/>
-    </a>
-  <a href="https://github.com/MyKhode">
-<img src="https://github-readme-stats.vercel.app/api?username=MyKhode&show_icons=true&bg_color=0D1017&border_radius=0&text_color=E8EDF3D5&title_color=E8EDF3&icon_color=E8EDF3&hide_border=false&card_width=414&card_height=195"/>
-    </a>
-</div>
-
 
 
 <!-- Activity Graph card -->
