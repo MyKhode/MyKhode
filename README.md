@@ -28,7 +28,7 @@ I've successfully built several production-ready applications
 <a href="https://www.mykh.app" style="display:inline-block;">
   <img width="70" src="https://github.com/user-attachments/assets/ce533cb4-2928-4221-9d37-4873848a4d00" style="border-radius:8px;">
 </a>
-
+&nbsp;&nbsp;
 
   <a href="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45" style="display:inline-block;">
     <img width="70" src="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45">
