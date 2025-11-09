@@ -22,7 +22,7 @@ I've successfully built several production-ready applications
 <div align="left">
 
 <a href="https://ikhode.com" style="display:inline-block;">
-  <img width="70" src="https://github.com/user-attachments/assets/4df187b2-04db-490c-b4c0-55dbc435ff90" style="border-radius:8px;">
+  <img width="70" src="https://github.com/user-attachments/assets/4f5a9725-0908-421f-96d8-95df0f020a89" style="border-radius:8px;">
 </a>&nbsp;&nbsp;
 
 <a href="https://www.mykh.app" style="display:inline-block;">
@@ -35,7 +35,6 @@ I've successfully built several production-ready applications
   </a>
 
 </div>
-
 
 <!-- Activity Graph card -->
 <h2>Activity Graph</h2>
