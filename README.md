@@ -20,6 +20,10 @@ Connect with us on **Discord** and join our amazing community:
 I've successfully built several production-ready applications
 <div align="left">
 
+<a href="https://infinity-editor.vercel.app/" style="display:inline-block;">
+  <img width="70" src="https://infinity-editor.vercel.app/assets/images/logo.png" style="border-radius:8px;">
+</a>&nbsp;&nbsp;
+
 <a href="https://ikhode.com" style="display:inline-block;">
   <img width="70" src="https://github.com/user-attachments/assets/4f5a9725-0908-421f-96d8-95df0f020a89" style="border-radius:8px;">
 </a>&nbsp;&nbsp;
