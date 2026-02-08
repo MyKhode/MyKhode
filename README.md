@@ -19,6 +19,13 @@ Connect with us on **Discord** and join our amazing community:
 ### Developed Applications
 I've successfully built several production-ready applications
 <div align="left">
+  
+<a href="https://infinity-editor.vercel.app/" style="display:inline-block;">
+  <span style="display:inline-block; border-radius:12px; overflow:hidden;">
+    <img width="70" src="https://api.ikhode.com/media/showcase/logo/0a991582d6974f1d8551000b1064ce8f.jpg">
+  </span>
+</a>
+
 
 <a href="https://infinity-editor.vercel.app/" style="display:inline-block;">
   <img width="70" src="https://infinity-editor.vercel.app/assets/images/logo.png" style="border-radius:8px;">
