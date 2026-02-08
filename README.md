@@ -1,4 +1,4 @@
-#### Hello 👋, I hope we found somthing cool together
+#### Hello 👋, I hope you found something usefull here
 
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-artstation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/ikhode)
