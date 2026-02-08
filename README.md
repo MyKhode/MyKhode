@@ -15,7 +15,6 @@ I'm a **Software Engineer** who passionate on **coding** and build somethings to
 Connect with us on **Discord** and join our amazing community:  
 [Discord Community Server](https://discord.gg/ySCGdyArHb) <br>
 [Github Discussion Community](https://github.com/orgs/Ikhode-Technologies/discussions) <br>
-[Ikhode Community Official Web Application](https://community.ikhode.com/) <br>
 
 ### Developed Applications
 I've successfully built several production-ready applications
