@@ -24,14 +24,6 @@ I've successfully built several production-ready applications
   <img width="70" src="https://infinity-editor.vercel.app/assets/images/logo.png" style="border-radius:8px;">
 </a>&nbsp;&nbsp;
 
-<a href="https://fastkhmerocr.ikhode.com/" style="display:inline-block; border-radius:12px;">
-  <img width="70" src="https://api.ikhode.com/media/showcase/logo/0a991582d6974f1d8551000b1064ce8f.jpg" style="border-radius:8px;">
-</a>&nbsp;&nbsp;
-
-<a href="https://ikhode.com/voice-ai-changer" style="display:inline-block;">
-  <img width="70" src="https://api.ikhode.com/media/showcase/logo/81497c37820d47bb9e794a9c365013d7.jpg" style="border-radius:8px;">
-</a>&nbsp;&nbsp;
-
 <a href="https://ikhode.com" style="display:inline-block;">
   <img width="70" src="https://github.com/user-attachments/assets/4f5a9725-0908-421f-96d8-95df0f020a89" style="border-radius:8px;">
 </a>&nbsp;&nbsp;
@@ -41,9 +33,13 @@ I've successfully built several production-ready applications
 </a>
 &nbsp;&nbsp;
 
-  <a href="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45" style="display:inline-block;">
-    <img width="70" src="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45">
-  </a>
+<a href="https://fastkhmerocr.ikhode.com/" style="display:inline-block; border-radius:12px;">
+  <img width="70" src="https://api.ikhode.com/media/showcase/logo/0a991582d6974f1d8551000b1064ce8f.jpg" style="border-radius:8px;">
+</a>&nbsp;&nbsp;
+
+<a href="https://ikhode.com/voice-ai-changer" style="display:inline-block;">
+  <img width="70" src="https://api.ikhode.com/media/showcase/logo/81497c37820d47bb9e794a9c365013d7.jpg" style="border-radius:8px;">
+</a>&nbsp;&nbsp;
 
 </div>
 
